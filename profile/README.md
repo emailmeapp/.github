@@ -1,3 +1,5 @@
+<img src="icon.png" alt="Email Me: Audio Notes app icon" width="120" height="120" />
+
 # Email Me: Audio Notes
 
 **Email yourself notes in one tap.** Type a note or record a voice memo, let AI transcribe it, and get it straight in your inbox.
